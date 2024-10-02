@@ -21,6 +21,5 @@ Describe the process of committing a project to github repository
     - git add .
 6. We commit our file
     - git commit -m "initial commit"
-   git commit -m "Initial commit"
 
 This way we've commit our Initial project to our repository.
