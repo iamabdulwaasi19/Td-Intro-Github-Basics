@@ -22,4 +22,4 @@ Describe the process of committing a project to github repository
 6. We commit our file
     - git commit -m "initial commit"
 
-This way we've commit our Initial project to our repository.
+This way we've commit our first commit project to our repository.
